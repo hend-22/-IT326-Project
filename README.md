@@ -20,8 +20,8 @@ We chose this dataset because it provides an opportunity to examine daily stress
 
 ## Group Members
 
-- Leader: Hend Al...
+- Leader: Hend Aljarba
 - Rasan Algwaifel
 - Joury Almogherah
-- Reema Al...
-- Reema Al...
+- Reema Alsuwayed
+- Reema Almjaideea
